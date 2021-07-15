@@ -1,2 +1,2 @@
 # weather
-clone coding in React Native Expo 
+clone cord from 니꼴라스 for studying React Native Expo
